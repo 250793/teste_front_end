@@ -1,8 +1,13 @@
-# React + Vite
+Drop One Filmes
+O prototipo é uma streaming de vídeos onde foi usado a api moviedb, com os seguintes requisidos:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+● Deverá ser listado 10 filmes mais populares
+● Será possível o usuário digitar o nome do filme em search e assim fazer uma
+pesquisa dos filmes.
+● O usuário poderá selecionar um filme presente na tela home e com isso, visualizar
+mais detalhes dos filmes.
+● O usuário poderá inserir e remover um filme da sua lista de filmes.
+● Deverá ser criada uma página para visualização de filmes curtidos.
+● Os filmes curtidos poderão ser filtrados por: classificação de ordem crescente ou
+decrescente ou adicionados recentemente.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
