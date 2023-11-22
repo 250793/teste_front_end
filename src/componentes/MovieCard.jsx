@@ -17,3 +17,4 @@ const MovieCard = ({ movie, showLink = true }) => {
 };
 
 export default MovieCard;
+// projeto 22/11/2023
